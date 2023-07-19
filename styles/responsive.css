@@ -99,7 +99,7 @@
 }
 
 
-@media screen and (min-width:576px) and (max-width:768px) {
+@media screen and (min-width:425px) and (max-width:768px) {
     nav {
         background: #FFF;
         box-shadow: 0px 4px 3px 0px rgba(0, 0, 0, 0.05);
@@ -173,7 +173,7 @@
         gap: 5px;
     }
     footer{
-     width: 100%;
+     width: 520px;
      height: 100%;
     }
     .footer-part{
