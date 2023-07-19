@@ -1,4 +1,4 @@
-@media screen and (max-width:425px) {
+@media screen and (max-width:576px) {
     nav {
         flex-direction: column;
         height: auto;
@@ -163,7 +163,7 @@
     .footer-text{
         display: grid;
         grid-template-columns: repeat(3,1fr);
-        padding-left:0px;
+        padding-left:10px;
         gap: 5px;
     }
     .ft{
@@ -173,14 +173,14 @@
         gap: 5px;
     }
     footer{
-        width: 450px;
-        height: 800px;
+     width: 100%;
+     height: 100%;
     }
     .footer-part{
         padding-left: 0px;
     }
     .footer-pic{
-        padding-left: 150px;
+        padding-left: 10px;
     }
     .icons{
         padding-left: 10px;
